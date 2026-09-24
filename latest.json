@@ -1,9 +1,9 @@
 {
-  "versionName": "0.2.1",
-  "versionCode": 201,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.2.1.apk",
-  "sha256": "43f6eb435bbaf9d39774d874c21d05d889602df1fca2c4d23f13268002c16515",
-  "fileSize": 3954840,
-  "releaseNotes": "Primeira atualização instalada pelo próprio aplicativo, sem computador.",
+  "versionName": "0.2.2",
+  "versionCode": 202,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.2.2.apk",
+  "sha256": "168a845a11f058243d2156845e7caecd7e810af60f2d926a238ccab2404def9e",
+  "fileSize": 3954836,
+  "releaseNotes": "A trilha só diz \"destravada\" quando está mesmo destravada.",
   "required": false
 }
