@@ -1,9 +1,9 @@
 {
-  "versionName": "0.2.2",
-  "versionCode": 202,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.2.2.apk",
-  "sha256": "168a845a11f058243d2156845e7caecd7e810af60f2d926a238ccab2404def9e",
-  "fileSize": 3954836,
-  "releaseNotes": "A trilha só diz \"destravada\" quando está mesmo destravada.",
+  "versionName": "0.3.0",
+  "versionCode": 300,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.3.0.apk",
+  "sha256": "33db441c7fa3df3059b452818932baa1ee71f65736aa1b65ca70f796b004cff8",
+  "fileSize": 3978776,
+  "releaseNotes": "Motor de choro: frases que ligam um acorde ao seguinte.\nGerar choro dentro de qualquer cifra, sem mexer na original.\nBiblioteca de ligações, com transposição para os doze tons.\nEscola do Choro: doze módulos novos na trilha.\nCrie sua própria ligação e veja o que ela faz.\nImporte suas tablaturas em Meus Choros.",
   "required": false
 }
