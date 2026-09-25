@@ -1,9 +1,9 @@
 {
-  "versionName": "0.4.0",
-  "versionCode": 400,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.4.0.apk",
-  "sha256": "67aa7dca77b8f5224c3775363ebb9ab00dc2fdcd47c7d2ca25eab2581c7b6f9e",
-  "fileSize": 3983116,
-  "releaseNotes": "Várias versões de cifra para a mesma música: V1, V2, V3.\nDuplique uma versão e edite sem mexer na original.\nCada versão tem seu tom, sua simplificada e seu choro.\nRepertórios passam a guardar qual versão tocar.\nUma entrada por música na lista, com o número de versões.",
+  "versionName": "0.4.1",
+  "versionCode": 401,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.4.1.apk",
+  "sha256": "29a723c91aee7c75dfa4387f6c697dd08a7a4c0cc46ca37b811bcad6013d7620",
+  "fileSize": 3983128,
+  "releaseNotes": "O seletor de versões saiu de baixo do controle de rolagem.",
   "required": false
 }
