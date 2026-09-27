@@ -1,9 +1,9 @@
 {
-  "versionName": "0.4.3",
-  "versionCode": 403,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.4.3.apk",
-  "sha256": "5f94caadccaf3b9789baca28881e4176f88e15cf9db6c95f6fd056f6e009779c",
-  "fileSize": 3983036,
-  "releaseNotes": "Excluir uma versão pelo lápis, ao lado dela na cifra.\nA barra mostra só as versões que existem.",
+  "versionName": "0.4.4",
+  "versionCode": 404,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.4.4.apk",
+  "sha256": "df04e3e804e576bc60f3dbcdba4d982ea9648397132fe2d0ce6200dd9ac8b9f1",
+  "fileSize": 3983332,
+  "releaseNotes": "A tela de leitura ficou limpa: só as versões e o choro acima da cifra.\nSimplificar, converter e aprender foram para o menu de ferramentas.",
   "required": false
 }
