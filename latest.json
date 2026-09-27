@@ -1,9 +1,9 @@
 {
-  "versionName": "0.4.1",
-  "versionCode": 401,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.4.1.apk",
-  "sha256": "29a723c91aee7c75dfa4387f6c697dd08a7a4c0cc46ca37b811bcad6013d7620",
-  "fileSize": 3983128,
-  "releaseNotes": "O seletor de versões saiu de baixo do controle de rolagem.",
+  "versionName": "0.4.2",
+  "versionCode": 402,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.4.2.apk",
+  "sha256": "fb757b148c15df884787195cc49930cff60cdfb10502ced26ea287d0ae7ba957",
+  "fileSize": 3982348,
+  "releaseNotes": "A cifra cadastrada numa versão nova agora fica nela, e não na primeira.\nAs versões viram uma barra na cifra: um toque troca.\nDá para dar nome à versão ali mesmo.\nVersão vazia mostra o que fazer, em vez de dizer que a música não tem cifra.",
   "required": false
 }
