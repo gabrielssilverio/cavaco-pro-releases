@@ -1,0 +1,12 @@
+{
+  "product": "cavaco-pro-admin",
+  "packageId": "com.cavacopro.admin",
+  "versionName": "0.1.1",
+  "versionCode": 101,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/admin/CavacoProAdmin-0.1.1.apk",
+  "sha256": "3acfcec4f4e721194c66016a500ae11dfc3aa8b486b0c71a0f89eacf3db1bf9b",
+  "fileSize": 3449210,
+  "releaseNotes": "Teste do sistema de atualização do Cavaco Pro Admin.\nA versão instalada agora aparece também na tela Mais.",
+  "required": false,
+  "publishedAt": "2026-09-28T10:38:18.259Z"
+}
