@@ -1,9 +1,9 @@
 {
-  "versionName": "0.4.4",
-  "versionCode": 404,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.4.4.apk",
-  "sha256": "df04e3e804e576bc60f3dbcdba4d982ea9648397132fe2d0ce6200dd9ac8b9f1",
-  "fileSize": 3983332,
-  "releaseNotes": "A tela de leitura ficou limpa: só as versões e o choro acima da cifra.\nSimplificar, converter e aprender foram para o menu de ferramentas.",
+  "versionName": "0.4.5",
+  "versionCode": 405,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.4.5.apk",
+  "sha256": "365c2782cf77aba8118c52159192763b1456af670e69ef17a19b94c9b45b45bf",
+  "fileSize": 3985680,
+  "releaseNotes": "Agora dá para trocar um acorde sem abrir o editor: toque nele na cifra e escolha \"Trocar este acorde na cifra\".\nSe o acorde se repete, você escolhe entre trocar só ali ou na música inteira.\nO alinhamento com a letra não se mexe, e a troca funciona com a música transposta.",
   "required": false
 }
