@@ -1,12 +1,12 @@
 {
   "product": "cavaco-pro-admin",
   "packageId": "com.cavacopro.admin",
-  "versionName": "0.1.2",
-  "versionCode": 102,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/admin/CavacoProAdmin-0.1.2.apk",
-  "sha256": "b82c07d332321649a59415711ef915942d0bde0cb6d4f358738f96a1999de3ec",
-  "fileSize": 3449266,
-  "releaseNotes": "O aplicativo já sabe onde fica o servidor de licenciamento.\nA tela de entrada deixa de avisar que falta configurar o endereço.",
+  "versionName": "0.1.3",
+  "versionCode": 103,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/admin/CavacoProAdmin-0.1.3.apk",
+  "sha256": "2e2acaac2a1d406215079d5bee66ac485aa2302a30cc3edc532fc35bb2dfee50",
+  "fileSize": 3450382,
+  "releaseNotes": "O seu aparelho passa a aparecer como do proprietário, num cartão próprio.\nEle sai das contagens de instalações, clientes e licenças — não é venda.\nContinua na lista, marcado com a coroa, e dá para trocar qual é o seu.\nO cartão \"Instalações\" agora conta instalações de verdade, não aparelhos com licença.",
   "required": false,
-  "publishedAt": "2026-09-29T11:02:27.957Z"
+  "publishedAt": "2026-09-30T06:47:40.270Z"
 }
