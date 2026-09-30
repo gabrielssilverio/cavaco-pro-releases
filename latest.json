@@ -1,9 +1,9 @@
 {
-  "versionName": "0.4.6",
-  "versionCode": 406,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.4.6.apk",
-  "sha256": "1c15cdfceed789cb6fc13e718f65f2f3c2ea40cd8a6e671cf716673cc7d1abaf",
-  "fileSize": 3985748,
-  "releaseNotes": "Trocar um acorde direto na cifra: toque nele e escolha \"Trocar este acorde na cifra\".\nSe o acorde se repete, você escolhe entre trocar só ali ou na música inteira.\nO aplicativo passa a avisar ao servidor que existe, uma vez por dia. Nenhuma cifra sai daqui.",
+  "versionName": "0.4.7",
+  "versionCode": 407,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.4.7.apk",
+  "sha256": "9b96713da284cd0a0d72f8ac88e326c7be991b52db3e8bb5dc714cafd719b622",
+  "fileSize": 3990676,
+  "releaseNotes": "Artista virou cadastro: escolha quem toca em vez de digitar o nome toda vez.\nCadastre artista, banda ou grupo sem sair da cifra, e filtre Minhas Cifras por quem toca.\nCorrigiu um nome? Ele muda em todas as músicas daquele artista de uma vez.\nDois cadastros da mesma pessoa se juntam num só, e excluir um artista nunca apaga cifra.",
   "required": false
 }
