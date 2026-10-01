@@ -1,9 +1,9 @@
 {
-  "versionName": "0.5.0",
-  "versionCode": 500,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.5.0.apk",
-  "sha256": "bce97185bb6c2d9b5451a70f784321a65fdcc2ae4e96b3ec82b3aa230a15bb12",
-  "fileSize": 4011300,
-  "releaseNotes": "O tamanho da letra agora aparece escrito entre os botões A- e A+.\nQuando a cifra precisa reduzir a fonte para a linha caber na tela, o controle mostra o tamanho em uso e o que você pediu.\nO A+ e o A- voltaram a responder na hora: a conta do encaixe deixou de ser refeita a cada toque.",
+  "versionName": "0.5.1",
+  "versionCode": 501,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.5.1.apk",
+  "sha256": "baf652ac3e266d54b31107cb0d9e9863fc7f43833a36df71ed60bbb0bf1f4d5a",
+  "fileSize": 4011484,
+  "releaseNotes": "O A+ e o A- do tamanho da letra voltam a funcionar no primeiro toque.\nO passo agora sai do tamanho que está na tela: antes, numa cifra encaixada em 15, era preciso apertar A- sete vezes antes de alguma coisa mudar.\nE quando a cifra chega ao limite da largura, insistir no A+ passa a valer: a fonte cresce e a cifra rola de lado. Apertar A- volta ao encaixe automático.",
   "required": false
 }
