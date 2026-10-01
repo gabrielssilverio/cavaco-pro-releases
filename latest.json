@@ -1,9 +1,9 @@
 {
-  "versionName": "0.5.1",
-  "versionCode": 501,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.5.1.apk",
-  "sha256": "baf652ac3e266d54b31107cb0d9e9863fc7f43833a36df71ed60bbb0bf1f4d5a",
-  "fileSize": 4011484,
-  "releaseNotes": "O A+ e o A- do tamanho da letra voltam a funcionar no primeiro toque.\nO passo agora sai do tamanho que está na tela: antes, numa cifra encaixada em 15, era preciso apertar A- sete vezes antes de alguma coisa mudar.\nE quando a cifra chega ao limite da largura, insistir no A+ passa a valer: a fonte cresce e a cifra rola de lado. Apertar A- volta ao encaixe automático.",
+  "versionName": "0.5.3",
+  "versionCode": 503,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.5.3.apk",
+  "sha256": "67a600550f5edb296875d62cbdebf7016fa91f559a3ca6ea0d7be85f3a54d116",
+  "fileSize": 4011520,
+  "releaseNotes": "Aumentar a fonte além do que cabe na tela não corta mais o texto: a linha dobra e a palavra desce inteira, nunca partida no meio.\nEnquanto o tamanho couber, a linha continua inteira e é a fonte que se ajusta.",
   "required": false
 }
