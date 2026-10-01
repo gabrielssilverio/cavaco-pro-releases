@@ -1,9 +1,9 @@
 {
-  "versionName": "0.4.8",
-  "versionCode": 408,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.4.8.apk",
-  "sha256": "7dafa045db55d48b6c7ecd25a53fc13308818a355886700962f8a1bd74605c8b",
-  "fileSize": 3991568,
-  "releaseNotes": "A cifra encaixa sozinha na largura da tela. O tamanho que você escolhe passa a ser o máximo: a fonte só diminui quando a linha não cabe, e nunca abaixo de 9px.\nOs acordes continuam exatamente sobre as sílabas, e nenhum espaço da cifra é mexido — só o tamanho da letra muda.\nGirou o celular ou abriu numa tela maior? A fonte volta a crescer até o tamanho que você escolheu.\nVale na leitura e no Modo Tocar, e recalcula ao transpor ou trocar de versão.",
+  "versionName": "0.4.9",
+  "versionCode": 409,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.4.9.apk",
+  "sha256": "1163336308b401dc023e7a0d9ef949c386a0615fbbd733eb480192f0eaf4fb6f",
+  "fileSize": 4010944,
+  "releaseNotes": "Nova área de Escalas no Aprender: Curso de Escalas na Trilha, e Escalas no Dicionário.\n65 escalas em 12 famílias — fundamentais, modos, pentatônicas, blues, bebop, simétricas, exóticas e tradicionais — em qualquer das 12 tônicas.\nVeja as notas, a fórmula e o braço do cavaquinho com a tônica destacada. Alterne entre notas e graus para aprender desenhos que servem em qualquer tom.\nOuça a escala subindo e descendo no andamento que você escolher, e favorite as que estiver estudando.\nO curso tem 12 módulos curtos, com XP e conquistas no mesmo progresso que você já tem.",
   "required": false
 }
