@@ -1,9 +1,9 @@
 {
-  "versionName": "0.4.9",
-  "versionCode": 409,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.4.9.apk",
-  "sha256": "1163336308b401dc023e7a0d9ef949c386a0615fbbd733eb480192f0eaf4fb6f",
-  "fileSize": 4010944,
-  "releaseNotes": "Nova área de Escalas no Aprender: Curso de Escalas na Trilha, e Escalas no Dicionário.\n65 escalas em 12 famílias — fundamentais, modos, pentatônicas, blues, bebop, simétricas, exóticas e tradicionais — em qualquer das 12 tônicas.\nVeja as notas, a fórmula e o braço do cavaquinho com a tônica destacada. Alterne entre notas e graus para aprender desenhos que servem em qualquer tom.\nOuça a escala subindo e descendo no andamento que você escolher, e favorite as que estiver estudando.\nO curso tem 12 módulos curtos, com XP e conquistas no mesmo progresso que você já tem.",
+  "versionName": "0.5.0",
+  "versionCode": 500,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.5.0.apk",
+  "sha256": "bce97185bb6c2d9b5451a70f784321a65fdcc2ae4e96b3ec82b3aa230a15bb12",
+  "fileSize": 4011300,
+  "releaseNotes": "O tamanho da letra agora aparece escrito entre os botões A- e A+.\nQuando a cifra precisa reduzir a fonte para a linha caber na tela, o controle mostra o tamanho em uso e o que você pediu.\nO A+ e o A- voltaram a responder na hora: a conta do encaixe deixou de ser refeita a cada toque.",
   "required": false
 }
