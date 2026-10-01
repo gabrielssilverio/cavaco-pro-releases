@@ -1,9 +1,9 @@
 {
-  "versionName": "0.4.7",
-  "versionCode": 407,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.4.7.apk",
-  "sha256": "9b96713da284cd0a0d72f8ac88e326c7be991b52db3e8bb5dc714cafd719b622",
-  "fileSize": 3990676,
-  "releaseNotes": "Artista virou cadastro: escolha quem toca em vez de digitar o nome toda vez.\nCadastre artista, banda ou grupo sem sair da cifra, e filtre Minhas Cifras por quem toca.\nCorrigiu um nome? Ele muda em todas as músicas daquele artista de uma vez.\nDois cadastros da mesma pessoa se juntam num só, e excluir um artista nunca apaga cifra.",
+  "versionName": "0.4.8",
+  "versionCode": 408,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.4.8.apk",
+  "sha256": "7dafa045db55d48b6c7ecd25a53fc13308818a355886700962f8a1bd74605c8b",
+  "fileSize": 3991568,
+  "releaseNotes": "A cifra encaixa sozinha na largura da tela. O tamanho que você escolhe passa a ser o máximo: a fonte só diminui quando a linha não cabe, e nunca abaixo de 9px.\nOs acordes continuam exatamente sobre as sílabas, e nenhum espaço da cifra é mexido — só o tamanho da letra muda.\nGirou o celular ou abriu numa tela maior? A fonte volta a crescer até o tamanho que você escolheu.\nVale na leitura e no Modo Tocar, e recalcula ao transpor ou trocar de versão.",
   "required": false
 }
