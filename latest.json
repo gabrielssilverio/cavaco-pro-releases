@@ -1,9 +1,9 @@
 {
-  "versionName": "0.5.3",
-  "versionCode": 503,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.5.3.apk",
-  "sha256": "67a600550f5edb296875d62cbdebf7016fa91f559a3ca6ea0d7be85f3a54d116",
-  "fileSize": 4011520,
-  "releaseNotes": "Aumentar a fonte além do que cabe na tela não corta mais o texto: a linha dobra e a palavra desce inteira, nunca partida no meio.\nEnquanto o tamanho couber, a linha continua inteira e é a fonte que se ajusta.",
+  "versionName": "0.5.5",
+  "versionCode": 505,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.5.5.apk",
+  "sha256": "dd0b776e9ed61126b6a6621bff072a3b2990123af203922af2cae011becb525b",
+  "fileSize": 4011524,
+  "releaseNotes": "O tamanho mínimo da letra passa de 13 para 10: dá para apertar mais a cifra quando você quer caber mais música na tela.\nNa barra de controles, o tamanho da letra passa a ser o primeiro, com o tom logo ao lado — na leitura e no Modo Tocar.",
   "required": false
 }
