@@ -1,9 +1,9 @@
 {
-  "versionName": "0.6.1",
-  "versionCode": 601,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.6.1.apk",
-  "sha256": "485f84e4a54fe6e8a9bba320f26f5204c8f7edc4ea71e33a4e26ead65b7895bd",
-  "fileSize": 4027520,
-  "releaseNotes": "Em Minhas Cifras, uma ordenação nova: Novas, que mostra primeiro o que entrou por último na biblioteca.\nÉ diferente de Recentes, que mostra o que você abriu por último — música recém-adicionada nunca foi aberta.",
+  "versionName": "0.7.0",
+  "versionCode": 700,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.7.0.apk",
+  "sha256": "a9637af6f629e19c831fd9df8f0376a7828d443597b51df6939e7d2b59d1b377",
+  "fileSize": 4035364,
+  "releaseNotes": "17 cifras novas em Minhas Cifras: Jovelina Perola Negra, Grupo Pirraça, Grupo Raça, Roberto Ribeiro e Royce do Cavaco chegam, e Zeca Pagodinho, Revelação, Fundo de Quintal, Jorge Aragão e Almir Guineto ganham mais músicas.\nUm repertório novo já montado: Samba de Raiz 3, com as 17 na ordem do documento.\nAs cifras que você já tinha continuam como estavam, com os seus repertórios e favoritos.",
   "required": false
 }
