@@ -1,9 +1,9 @@
 {
-  "versionName": "0.6.0",
-  "versionCode": 600,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.6.0.apk",
-  "sha256": "1aa5888ceb6f2997fb7983a6d948143e1dabf2a9a91bd67afe9adf0bd17a4632",
-  "fileSize": 4027488,
-  "releaseNotes": "37 cifras novas entram direto em Minhas Cifras: samba e pagode de Zeca Pagodinho, Arlindo Cruz, Revelação, Turma do Pagode, Pixote, Fundo de Quintal, Cartola e outros.\nCada uma chega com o tom, a cifra completa e os acordes alinhados sobre a letra, já ligada ao artista.\nElas são suas: dá para editar, transpor, favoritar, pôr no repertório e criar V2. Se você apagar uma, ela não volta.",
+  "versionName": "0.6.1",
+  "versionCode": 601,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.6.1.apk",
+  "sha256": "485f84e4a54fe6e8a9bba320f26f5204c8f7edc4ea71e33a4e26ead65b7895bd",
+  "fileSize": 4027520,
+  "releaseNotes": "Em Minhas Cifras, uma ordenação nova: Novas, que mostra primeiro o que entrou por último na biblioteca.\nÉ diferente de Recentes, que mostra o que você abriu por último — música recém-adicionada nunca foi aberta.",
   "required": false
 }
