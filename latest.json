@@ -1,9 +1,9 @@
 {
-  "versionName": "0.5.5",
-  "versionCode": 505,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.5.5.apk",
-  "sha256": "dd0b776e9ed61126b6a6621bff072a3b2990123af203922af2cae011becb525b",
-  "fileSize": 4011524,
-  "releaseNotes": "O tamanho mínimo da letra passa de 13 para 10: dá para apertar mais a cifra quando você quer caber mais música na tela.\nNa barra de controles, o tamanho da letra passa a ser o primeiro, com o tom logo ao lado — na leitura e no Modo Tocar.",
+  "versionName": "0.5.6",
+  "versionCode": 506,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.5.6.apk",
+  "sha256": "c31af5e74e2dbb7336f601e7aacf65532c045a290baab49845cecd56af618125",
+  "fileSize": 4011564,
+  "releaseNotes": "Repertórios: a tela não desliza mais para o lado nem corta o título e os cartões.\nAo procurar uma música para somar ao repertório, o teclado não fecha mais no meio da palavra.\nOs botões Adicionar música e Tocar repertório agora cabem na tela do celular.",
   "required": false
 }
