@@ -1,9 +1,9 @@
 {
-  "versionName": "0.7.0",
-  "versionCode": 700,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.7.0.apk",
-  "sha256": "a9637af6f629e19c831fd9df8f0376a7828d443597b51df6939e7d2b59d1b377",
-  "fileSize": 4035364,
-  "releaseNotes": "17 cifras novas em Minhas Cifras: Jovelina Perola Negra, Grupo Pirraça, Grupo Raça, Roberto Ribeiro e Royce do Cavaco chegam, e Zeca Pagodinho, Revelação, Fundo de Quintal, Jorge Aragão e Almir Guineto ganham mais músicas.\nUm repertório novo já montado: Samba de Raiz 3, com as 17 na ordem do documento.\nAs cifras que você já tinha continuam como estavam, com os seus repertórios e favoritos.",
+  "versionName": "0.8.0",
+  "versionCode": 800,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.8.0.apk",
+  "sha256": "6b4a515816c6f83ec27a953246a20a2999e3c9852283f96b77991bf4c5e66453",
+  "fileSize": 3921792,
+  "releaseNotes": "O catálogo saiu: o aplicativo agora mostra só música que tem cifra para tocar. As 2.563 que eram apenas título e artista deixaram de ocupar busca, filtro e contagem — e nenhuma cifra sua foi tocada nisso.\nNa tela inicial: Últimas adicionadas, Mais tocadas e Artistas e grupos mais tocados.\nO ranking conta o que passa pelo Modo Tocar. Abrir uma cifra para ler ou treinar uma troca de acorde não entra — ele começa em zero e cresce tocando.\nEm Estatísticas dá para ver o ranking completo por 7 dias, 30 dias ou sempre. O histórico fica no aparelho e vai junto no backup.",
   "required": false
 }
