@@ -1,9 +1,9 @@
 {
-  "versionName": "0.8.0",
-  "versionCode": 800,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.8.0.apk",
-  "sha256": "6b4a515816c6f83ec27a953246a20a2999e3c9852283f96b77991bf4c5e66453",
-  "fileSize": 3921792,
-  "releaseNotes": "O catálogo saiu: o aplicativo agora mostra só música que tem cifra para tocar. As 2.563 que eram apenas título e artista deixaram de ocupar busca, filtro e contagem — e nenhuma cifra sua foi tocada nisso.\nNa tela inicial: Últimas adicionadas, Mais tocadas e Artistas e grupos mais tocados.\nO ranking conta o que passa pelo Modo Tocar. Abrir uma cifra para ler ou treinar uma troca de acorde não entra — ele começa em zero e cresce tocando.\nEm Estatísticas dá para ver o ranking completo por 7 dias, 30 dias ou sempre. O histórico fica no aparelho e vai junto no backup.",
+  "versionName": "0.8.1",
+  "versionCode": 801,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.8.1.apk",
+  "sha256": "1beed346bb2f77ff0556e96ca3d43ff18e8c384f84b09786eebdc4e4d39c653b",
+  "fileSize": 3921796,
+  "releaseNotes": "O título \"Artistas e grupos mais tocados\" aparecia cortado no celular, escondendo justamente a palavra que diz do que é a lista. Agora ele quebra a linha em vez de cortar.",
   "required": false
 }
