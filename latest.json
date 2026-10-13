@@ -1,9 +1,9 @@
 {
-  "versionName": "0.11.1",
-  "versionCode": 1101,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.11.1.apk",
-  "sha256": "8c053a98a635255577d4cceb89a2818ea4959c37dc5088d25b34faf4d132142f",
-  "fileSize": 3937508,
-  "releaseNotes": "O número do Início agora bate com a lista. Ele dizia \"213 cifras para tocar\" e Minhas cifras abria com 134 — o contador tinha ficado de fora do filtro de letra na versão passada.\nOs estudos e instrumentais ganharam linha própria no Início. Eles saem da lista, mas não desaparecem da conta: quem tem 79 precisa saber que eles estão lá.\n\"Últimas adicionadas\" seguiu a mesma regra. Antes um estudo recém-chegado podia aparecer ali e faltar na lista que o \"Ver todas\" abre.\n\"Cifras suas\" e \"Versões para iniciantes\" continuam contando tudo — cifra que você escreveu é sua, seja samba ou estudo.",
+  "versionName": "0.12.0",
+  "versionCode": 1200,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.12.0.apk",
+  "sha256": "f0a88a71025811acd1340893b5741322512b288f4f7461416dbbb68a5fc99b90",
+  "fileSize": 3959500,
+  "releaseNotes": "Chegaram 46 cifras novas: Nada Pra Fazer, Me Desculpe a Franqueza, Quero Mais e Chegamos ao Fim do Vou Pro Sereno; Final de Tarde e Cuidado, Cupido do Pericles; Faixa Amarela, Seu Balancê, Letreiro, Dona Esponja, O Penetra, Pai Coruja e Samba pras Moças do Zeca; Lancinho e Surpresa de Amor da Turma do Pagode; Canta Canta Minha Gente e Roda Ciranda do Martinho — e mais Monarco, Dudu Nobre, Mumuzinho, Boka Loka, Renato da Rocinha e Leandro Di-Menor.\nO acervo que vem com o aplicativo passou de 85 para 131 cifras.\nO grupo Revelação agora tem um cadastro só, chamado \"Grupo Revelação\": as 7 cifras que já estavam aqui foram para junto das 6 novas, e nenhuma mudou de conteúdo.\nOs solos vieram inteiros, inclusive os escritos em números — \"Em um Outdoor\" traz a sequência do solo, e \"Samba pras Moças\" a indicação de TAB que serve ao violão e ao cavaquinho.\nCada acorde ficou exatamente sobre a sílaba em que ele entra. Os símbolos do caderno vieram como estavam: Ebº, F#º, Bbº, G#º, Dm7(9), A7/5+, D7/13, G7+, B7/9-, Fdim e o %.\nNada do que já estava aqui foi mexido: suas cifras, favoritos, repertórios e anotações seguem como estavam, e nenhuma das 46 colidiu com música que você já tinha.",
   "required": false
 }
