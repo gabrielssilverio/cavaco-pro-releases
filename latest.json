@@ -1,9 +1,9 @@
 {
-  "versionName": "0.11.0",
-  "versionCode": 1100,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.11.0.apk",
-  "sha256": "9edf71cf2935233fe532f438c656315487a0c5b270871364cd7dba8b205988dc",
-  "fileSize": 3937496,
-  "releaseNotes": "Minhas cifras agora lista só música com letra. Os estudos, os choros e as obras instrumentais saíram da rolagem — eram 79 cifras sem um verso no meio das outras, e a lista caiu de 202 para 123.\nElas não foram apagadas: digitando o nome, aparecem. Procure \"Estudo 5\", \"Chiquinha\" ou um trecho da harmonia e a cifra está lá, inteira.\nTocando num artista, você vê a obra dele toda — inclusive a instrumental. A tela de Artistas continua mostrando tudo de quem você escolher.\nAo montar repertório, o seletor oferece apenas cifra com letra: repertório é a sequência da roda. Estudo que você já tinha posto num repertório continua nele.\nAcrescentou um verso a um estudo? Ele volta para a lista na busca seguinte, sem reiniciar o aplicativo.",
+  "versionName": "0.11.1",
+  "versionCode": 1101,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.11.1.apk",
+  "sha256": "8c053a98a635255577d4cceb89a2818ea4959c37dc5088d25b34faf4d132142f",
+  "fileSize": 3937508,
+  "releaseNotes": "O número do Início agora bate com a lista. Ele dizia \"213 cifras para tocar\" e Minhas cifras abria com 134 — o contador tinha ficado de fora do filtro de letra na versão passada.\nOs estudos e instrumentais ganharam linha própria no Início. Eles saem da lista, mas não desaparecem da conta: quem tem 79 precisa saber que eles estão lá.\n\"Últimas adicionadas\" seguiu a mesma regra. Antes um estudo recém-chegado podia aparecer ali e faltar na lista que o \"Ver todas\" abre.\n\"Cifras suas\" e \"Versões para iniciantes\" continuam contando tudo — cifra que você escreveu é sua, seja samba ou estudo.",
   "required": false
 }
