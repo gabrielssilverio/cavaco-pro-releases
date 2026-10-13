@@ -1,9 +1,9 @@
 {
-  "versionName": "0.10.0",
-  "versionCode": 1000,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.10.0.apk",
-  "sha256": "9d691691b80371863a6f399b08af4c1a4222221d5a80298216a192ee8e14e3ae",
-  "fileSize": 3937280,
-  "releaseNotes": "Chegaram 31 cifras novas em Minhas Cifras: Tímida Tentação, Patota de Cosme, Jibóia, Gamação Danada, Cabelo Pixaim, Opção, Mãos, Ratauia, Coco de Catolé, Jogo de Caipira, Casal Sem Vergonha e mais — de Jorge Aragão, Zeca Pagodinho, Fundo de Quintal, Almir Guineto, Arlindo Cruz, Candeia, Beth Carvalho, Clara Nunes, Martinho da Vila e Thiago Bispo.\nOs dois medleys entraram inteiros, como estavam no caderno: Gamação / Peixeiro Granfino / Ouço Uma Voz / Vem Ameniza, do Candeia, e Depois do Temporal / Ladeira do Chapelão / Nega o Morro, do Arlindo.\nCada acorde ficou exatamente sobre a sílaba em que ele entra — o espaçamento das cifras veio caractere a caractere, e transpor continua mantendo o alinhamento.\nNada do que já estava aqui foi mexido: suas cifras, favoritos, repertórios e anotações seguem como estavam. \"Vai Vadiar\" não entrou duas vezes — a que você já tinha é a que ficou.\n\"Raiz e Flor\" veio sem o tom declarado no caderno, e nada foi adivinhado: o campo está em branco para você preencher no editor quando quiser.",
+  "versionName": "0.11.0",
+  "versionCode": 1100,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.11.0.apk",
+  "sha256": "9edf71cf2935233fe532f438c656315487a0c5b270871364cd7dba8b205988dc",
+  "fileSize": 3937496,
+  "releaseNotes": "Minhas cifras agora lista só música com letra. Os estudos, os choros e as obras instrumentais saíram da rolagem — eram 79 cifras sem um verso no meio das outras, e a lista caiu de 202 para 123.\nElas não foram apagadas: digitando o nome, aparecem. Procure \"Estudo 5\", \"Chiquinha\" ou um trecho da harmonia e a cifra está lá, inteira.\nTocando num artista, você vê a obra dele toda — inclusive a instrumental. A tela de Artistas continua mostrando tudo de quem você escolher.\nAo montar repertório, o seletor oferece apenas cifra com letra: repertório é a sequência da roda. Estudo que você já tinha posto num repertório continua nele.\nAcrescentou um verso a um estudo? Ele volta para a lista na busca seguinte, sem reiniciar o aplicativo.",
   "required": false
 }
