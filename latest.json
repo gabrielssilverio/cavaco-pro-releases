@@ -1,9 +1,9 @@
 {
-  "versionName": "0.9.0",
-  "versionCode": 900,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.9.0.apk",
-  "sha256": "fb90eafbf331ad420c54fdf98120cda4f13ca094cef6f9a04b152e11fd2c868e",
-  "fileSize": 3923468,
-  "releaseNotes": "Não lembra o nome da música? Digite um pedaço da letra. A busca de Minhas Cifras agora procura ao mesmo tempo no título, no artista, no tom e dentro da cifra.\nFunciona sem acento, sem ligar para maiúsculas, ignorando pontuação e espaços — e acha a frase mesmo quando ela está partida em duas linhas da cifra.\nO resultado mostra o trecho que casou. Tocando nele, a cifra abre na versão em que o trecho está e já rolada até a linha.\nA mesma busca vale ao adicionar música num repertório: lembrou o verso, achou a cifra.",
+  "versionName": "0.10.0",
+  "versionCode": 1000,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.10.0.apk",
+  "sha256": "9d691691b80371863a6f399b08af4c1a4222221d5a80298216a192ee8e14e3ae",
+  "fileSize": 3937280,
+  "releaseNotes": "Chegaram 31 cifras novas em Minhas Cifras: Tímida Tentação, Patota de Cosme, Jibóia, Gamação Danada, Cabelo Pixaim, Opção, Mãos, Ratauia, Coco de Catolé, Jogo de Caipira, Casal Sem Vergonha e mais — de Jorge Aragão, Zeca Pagodinho, Fundo de Quintal, Almir Guineto, Arlindo Cruz, Candeia, Beth Carvalho, Clara Nunes, Martinho da Vila e Thiago Bispo.\nOs dois medleys entraram inteiros, como estavam no caderno: Gamação / Peixeiro Granfino / Ouço Uma Voz / Vem Ameniza, do Candeia, e Depois do Temporal / Ladeira do Chapelão / Nega o Morro, do Arlindo.\nCada acorde ficou exatamente sobre a sílaba em que ele entra — o espaçamento das cifras veio caractere a caractere, e transpor continua mantendo o alinhamento.\nNada do que já estava aqui foi mexido: suas cifras, favoritos, repertórios e anotações seguem como estavam. \"Vai Vadiar\" não entrou duas vezes — a que você já tinha é a que ficou.\n\"Raiz e Flor\" veio sem o tom declarado no caderno, e nada foi adivinhado: o campo está em branco para você preencher no editor quando quiser.",
   "required": false
 }
