@@ -1,9 +1,9 @@
 {
-  "versionName": "0.8.1",
-  "versionCode": 801,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.8.1.apk",
-  "sha256": "1beed346bb2f77ff0556e96ca3d43ff18e8c384f84b09786eebdc4e4d39c653b",
-  "fileSize": 3921796,
-  "releaseNotes": "O título \"Artistas e grupos mais tocados\" aparecia cortado no celular, escondendo justamente a palavra que diz do que é a lista. Agora ele quebra a linha em vez de cortar.",
+  "versionName": "0.9.0",
+  "versionCode": 900,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.9.0.apk",
+  "sha256": "fb90eafbf331ad420c54fdf98120cda4f13ca094cef6f9a04b152e11fd2c868e",
+  "fileSize": 3923468,
+  "releaseNotes": "Não lembra o nome da música? Digite um pedaço da letra. A busca de Minhas Cifras agora procura ao mesmo tempo no título, no artista, no tom e dentro da cifra.\nFunciona sem acento, sem ligar para maiúsculas, ignorando pontuação e espaços — e acha a frase mesmo quando ela está partida em duas linhas da cifra.\nO resultado mostra o trecho que casou. Tocando nele, a cifra abre na versão em que o trecho está e já rolada até a linha.\nA mesma busca vale ao adicionar música num repertório: lembrou o verso, achou a cifra.",
   "required": false
 }
