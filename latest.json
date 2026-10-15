@@ -1,9 +1,9 @@
 {
-  "versionName": "0.17.0",
-  "versionCode": 1700,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.17.0.apk",
-  "sha256": "acac3628e4f83d082f40a044a13998f87152c97219be9098860f5d7b9ac2952d",
-  "fileSize": 3993788,
-  "releaseNotes": "CORREÇÃO DO ARRASTE: o player agora se move de verdade. O Android estava entendendo o seu dedo na barra como rolagem da página e cancelando o arraste no primeiro movimento — era disputa de gesto, não lentidão.\nO player abre SEMPRE em 180 px. Ele acompanha a cifra em vez de cobri-la; se você aumentar, a próxima abertura volta ao tamanho pequeno.\nA barra de arraste ficou mais alta e diz \"Arraste para mover\", com os botões fora dela — botão dentro da área de arraste disputa o toque com o movimento.\n\"SÓ ÁUDIO\" agora é um botão com NOME, na barra do player. Um toque esconde a imagem e o som continua, sem precisar sair para o app do YouTube.\nOculto, a barra passa a dizer \"Só áudio\", para você saber que está tocando mesmo sem ver.\nMostrar vídeo é um toque no mesmo lugar.\nA alça de tamanho também ficou maior e não disputa mais o gesto com a tela.\nLembrete: \"Só áudio\" mantém o som com o Cavaco Pro na tela. Para o som continuar com o aplicativo fechado, use \"Áudio com o app do YouTube\" em Mais opções — é ele que tem a sua conta Premium.",
+  "versionName": "0.18.0",
+  "versionCode": 1800,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.18.0.apk",
+  "sha256": "8a6d577b670a0b7436eb7e3525b76aa20d44a37a0d7a05065adaa94f4a603462",
+  "fileSize": 3993888,
+  "releaseNotes": "",
   "required": false
 }
