@@ -1,9 +1,9 @@
 {
-  "versionName": "0.19.0",
-  "versionCode": 1900,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.19.0.apk",
-  "sha256": "f360f50a756f12786b84a08ba069ff372c791c9d6f6294bb6fc7339fdc20fd53",
-  "fileSize": 3993908,
-  "releaseNotes": "CORREÇÃO DO RANKING: agora dá para chegar no Modo Tocar. O botão TOCAR vivia dentro da barra de controles — e com a barra fechada, que é como a cifra ocupa a tela, não havia botão nenhum.\nSem botão não há palco, e sem palco nenhuma execução é registrada. O ranking não contava errado: ninguém conseguia chegar ao lugar onde se conta.\nTOCAR passou para o cabeçalho da cifra, ao lado de favoritar e editar. Sempre visível, com a barra aberta ou fechada.\nLembrando como a contagem funciona: dez segundos no Modo Tocar valem uma execução. Abrir a cifra, transpor, ver vídeo ou abrir diagrama não contam.\nOs rankings de Mais tocadas e Artistas mais tocados vão começar a encher a partir das próximas vezes que você tocar.",
+  "versionName": "0.20.0",
+  "versionCode": 2000,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.20.0.apk",
+  "sha256": "1d3ef072d128845a4aef0402e85c11a96adc1c8a24ed8f33fbba044e0a94f53c",
+  "fileSize": 3994064,
+  "releaseNotes": "O RANKING MUDOU DE REGRA: agora a cifra aberta conta. Vinte segundos com uma cifra na tela e ela entra no ranking — não é mais preciso passar pelo Modo Tocar.\nÉ assim que você toca: abre a cifra e toca junto. O ranking passa a medir isso, e não o uso de um modo específico do aplicativo.\nO relógio só corre com a cifra na tela. Se você sair para responder mensagem, ele para e recomeça quando voltar.\nAbrir a cifra para conferir o tom e fechar não conta: vinte segundos é mais do que isso.\nA mesma música só conta de novo depois de dois minutos. Abrir a cifra e em seguida entrar no Modo Tocar é uma sessão só, e não duas execuções.\nTocar uma música diferente no mesmo minuto conta normalmente — a espera é por música.\nO Modo Tocar continua contando igual, e o botão TOCAR continua no cabeçalho da cifra.",
   "required": false
 }
