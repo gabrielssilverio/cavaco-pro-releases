@@ -1,0 +1,11 @@
+{
+  "platform": "android",
+  "channel": "stable",
+  "versionName": "0.19.0",
+  "versionCode": 1900,
+  "sha256": "f360f50a756f12786b84a08ba069ff372c791c9d6f6294bb6fc7339fdc20fd53",
+  "fileSize": 3993908,
+  "apkFile": "CavacoPro-0.19.0.apk",
+  "certificateSha256": "502b651a45f988efb7f2636f18af68ee654dfd5bb078ca5e77b7ca9aa6299ec4",
+  "builtAt": "2026-10-15T14:27:41.202Z"
+}
