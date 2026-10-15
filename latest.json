@@ -1,9 +1,9 @@
 {
-  "versionName": "0.15.0",
-  "versionCode": 1500,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.15.0.apk",
-  "sha256": "1347f653186b75005ba8b14efdd6cd3792e15dc60c0a0764e34d9021d3636fd4",
-  "fileSize": 3992624,
-  "releaseNotes": "YouTube na cifra. Cole o link do vídeo na edição da música e ele fica guardado ali.\nAceita link normal, youtu.be, Shorts e embed — com instante, lista e rastreamento. Você não precisa editar nada: cole e salve.\nNa cifra aparece o botão YouTube com as opções: Assistir aqui, Abrir no YouTube, Somente áudio e Picture-in-Picture.\nAssistir aqui abre o player acima da cifra. A cifra continua inteira: transpor, mudar fonte, rolagem automática, abrir diagrama — nada disso reinicia o vídeo.\nModo compacto reduz o player e libera a tela para a cifra, sem perder o tempo do vídeo nem o play. Expandir volta.\nTela cheia e Fechar no mesmo lugar.\nSomente áudio e Picture-in-Picture abrem no aplicativo do YouTube com a sua conta Premium. Dentro do Cavaco Pro o vídeo para quando o aplicativo vai para trás — isso é do Android, e o aplicativo oficial é quem faz segundo plano de verdade.\nAo voltar do YouTube a cifra volta no mesmo ponto da rolagem, no mesmo tom, com a mesma fonte e no mesmo repertório.\nO vídeo nunca começa sozinho: abrir uma música não gasta seus dados.\nSem internet, a cifra funciona igual e o aplicativo só avisa que o vídeo não carrega.\nSe o vídeo não puder ser incorporado, o atalho para abrir no YouTube fica à mão.\nO vídeo entra no backup e volta na restauração.",
+  "versionName": "0.16.0",
+  "versionCode": 1600,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.16.0.apk",
+  "sha256": "255d036027ed087c369c451fe5774fdf6a5fefebed791faf4ebb39086fb14d27",
+  "fileSize": 3993724,
+  "releaseNotes": "CORREÇÃO: o player não aparecia. Era preciso dois toques — o primeiro só abria um menu. Agora \"Ver vídeo\" abre o player na hora.\nO player FLUTUA por cima da cifra: arraste pela barra de cima e ponha onde quiser na tela.\nControle o tamanho pela alça de baixo, que mostra a largura em pixels. Também dá para ajustar com as setas do teclado.\nA posição e o tamanho ficam guardados: na música seguinte o vídeo abre onde você deixou.\nNOVO: ocultar o vídeo e deixar só o áudio. O olho riscado na barra esconde a imagem e o som continua, com a cifra ocupando a tela inteira.\nMostrar de novo é um toque no mesmo lugar.\nOcultar aqui mantém o áudio com o Cavaco Pro na tela. Para o som continuar com o aplicativo fechado, use \"Áudio com o app do YouTube\" — é ele que tem a sua conta Premium.\nEm \"Mais opções\" estão Abrir no YouTube, Áudio com o app do YouTube e Picture-in-Picture.\nArrastar, redimensionar e ocultar não reiniciam o vídeo: ele continua no mesmo segundo e tocando.\nO player não escapa da borda da tela, e se virar o celular ele volta para dentro.",
   "required": false
 }
