@@ -1,9 +1,9 @@
 {
-  "versionName": "0.20.0",
-  "versionCode": 2000,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.20.0.apk",
-  "sha256": "1d3ef072d128845a4aef0402e85c11a96adc1c8a24ed8f33fbba044e0a94f53c",
-  "fileSize": 3994064,
-  "releaseNotes": "O RANKING MUDOU DE REGRA: agora a cifra aberta conta. Vinte segundos com uma cifra na tela e ela entra no ranking — não é mais preciso passar pelo Modo Tocar.\nÉ assim que você toca: abre a cifra e toca junto. O ranking passa a medir isso, e não o uso de um modo específico do aplicativo.\nO relógio só corre com a cifra na tela. Se você sair para responder mensagem, ele para e recomeça quando voltar.\nAbrir a cifra para conferir o tom e fechar não conta: vinte segundos é mais do que isso.\nA mesma música só conta de novo depois de dois minutos. Abrir a cifra e em seguida entrar no Modo Tocar é uma sessão só, e não duas execuções.\nTocar uma música diferente no mesmo minuto conta normalmente — a espera é por música.\nO Modo Tocar continua contando igual, e o botão TOCAR continua no cabeçalho da cifra.",
+  "versionName": "0.21.0",
+  "versionCode": 2100,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.21.0.apk",
+  "sha256": "2ba82eab42d9740ae1c324d81acdc81e02214ef7230faea71a32a620fda0902e",
+  "fileSize": 3998572,
+  "releaseNotes": "# CAVACO PRO 0.21.0\r\n\r\n• Novo perfil completo de artistas e grupos\r\n• Nome do artista agora é clicável nas cifras\r\n• Estatísticas de músicas e execuções por artista\r\n• Música mais tocada e última execução\r\n• Top músicas de cada artista\r\n• Tons e acordes mais usados\r\n• Biografia e perfil editável, disponíveis offline\r\n• Lista completa das músicas do artista\r\n• Filtro de músicas por tom original\r\n• Ordenação musical por tonalidade\r\n• Repertórios automáticos por tom\r\n• Músicas novas entram automaticamente no repertório correto\r\n• Alterar o tom reorganiza automaticamente a música\r\n• Separação entre repertórios pessoais e repertórios por tom\r\n• Correções na associação entre cifras e artistas",
   "required": false
 }
