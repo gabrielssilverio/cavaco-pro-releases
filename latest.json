@@ -1,9 +1,9 @@
 {
-  "versionName": "0.21.0",
-  "versionCode": 2100,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.21.0.apk",
-  "sha256": "2ba82eab42d9740ae1c324d81acdc81e02214ef7230faea71a32a620fda0902e",
-  "fileSize": 3998572,
-  "releaseNotes": "# CAVACO PRO 0.21.0\r\n\r\n• Novo perfil completo de artistas e grupos\r\n• Nome do artista agora é clicável nas cifras\r\n• Estatísticas de músicas e execuções por artista\r\n• Música mais tocada e última execução\r\n• Top músicas de cada artista\r\n• Tons e acordes mais usados\r\n• Biografia e perfil editável, disponíveis offline\r\n• Lista completa das músicas do artista\r\n• Filtro de músicas por tom original\r\n• Ordenação musical por tonalidade\r\n• Repertórios automáticos por tom\r\n• Músicas novas entram automaticamente no repertório correto\r\n• Alterar o tom reorganiza automaticamente a música\r\n• Separação entre repertórios pessoais e repertórios por tom\r\n• Correções na associação entre cifras e artistas",
+  "versionName": "0.22.0",
+  "versionCode": 2200,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.22.0.apk",
+  "sha256": "fd0a7c796604e2fd9723ae2562be67ac92688cdac38039cdd95993df438ff4db",
+  "fileSize": 4014374,
+  "releaseNotes": "# CAVACO PRO 0.22.0\n\n• Nova tela Todas as Músicas com busca, filtros, ordenação e agrupamento\n• Exporte todas as músicas, o resultado dos filtros ou as selecionadas\n• Exporte em CSV, TXT ou JSON e compartilhe pelo Android\n• O YouTube no lugar do vídeo: \"Ver vídeo\" quando tem, \"+ YouTube\" para colar o link quando não tem\n• Treine o braço do cavaquinho, trocas de acordes com metrônomo e memória harmônica\n• Seus dados locais e repertórios são preservados",
   "required": false
 }
