@@ -1,9 +1,9 @@
 {
-  "versionName": "0.22.0",
-  "versionCode": 2200,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.22.0.apk",
-  "sha256": "fd0a7c796604e2fd9723ae2562be67ac92688cdac38039cdd95993df438ff4db",
+  "versionName": "0.23.0",
+  "versionCode": 2300,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.23.0.apk",
+  "sha256": "5c5e6d432efe4480e77aa86d5600a03d294b783023ab05c14fa874dc8b863106",
   "fileSize": 4014374,
-  "releaseNotes": "# CAVACO PRO 0.22.0\n\n• Nova tela Todas as Músicas com busca, filtros, ordenação e agrupamento\n• Exporte todas as músicas, o resultado dos filtros ou as selecionadas\n• Exporte em CSV, TXT ou JSON e compartilhe pelo Android\n• O YouTube no lugar do vídeo: \"Ver vídeo\" quando tem, \"+ YouTube\" para colar o link quando não tem\n• Treine o braço do cavaquinho, trocas de acordes com metrônomo e memória harmônica\n• Seus dados locais e repertórios são preservados",
+  "releaseNotes": "# CAVACO PRO 0.23.0\n\n• O YouTube saiu do cabeçalho e foi para o lugar do vídeo, acima da cifra\n• Tem vídeo: \"Ver vídeo\". Não tem: \"+ YouTube\" ali mesmo, para colar o link\n• Inclui a 0.22.0: Todas as músicas com busca, filtros e exportação\n• Inclui os exercícios diários: braço do cavaquinho, trocas com metrônomo e memória harmônica\n• Seus dados locais e repertórios são preservados",
   "required": false
 }
