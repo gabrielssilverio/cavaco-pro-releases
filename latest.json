@@ -1,9 +1,9 @@
 {
-  "versionName": "0.23.0",
-  "versionCode": 2300,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.23.0.apk",
-  "sha256": "5c5e6d432efe4480e77aa86d5600a03d294b783023ab05c14fa874dc8b863106",
-  "fileSize": 4014374,
-  "releaseNotes": "# CAVACO PRO 0.23.0\n\n• O YouTube saiu do cabeçalho e foi para o lugar do vídeo, acima da cifra\n• Tem vídeo: \"Ver vídeo\". Não tem: \"+ YouTube\" ali mesmo, para colar o link\n• Inclui a 0.22.0: Todas as músicas com busca, filtros e exportação\n• Inclui os exercícios diários: braço do cavaquinho, trocas com metrônomo e memória harmônica\n• Seus dados locais e repertórios são preservados",
+  "versionName": "0.23.1",
+  "versionCode": 2301,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.23.1.apk",
+  "sha256": "ccaf7282df67fe961b9748dcbdb5914121a7cfdba10fd55c6e2e9c8079ced299",
+  "fileSize": 4014438,
+  "releaseNotes": "# CAVACO PRO 0.23.1\n\n• Cadastrar o artista no meio da música não trava mais a tela\n• Depois de salvar o artista novo, o formulário volta a rolar normalmente\n• Vale para qualquer tela com dois avisos abertos um sobre o outro\n• Seus dados locais e repertórios são preservados",
   "required": false
 }
