@@ -1,9 +1,9 @@
 {
-  "versionName": "0.23.1",
-  "versionCode": 2301,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.23.1.apk",
-  "sha256": "ccaf7282df67fe961b9748dcbdb5914121a7cfdba10fd55c6e2e9c8079ced299",
-  "fileSize": 4014438,
-  "releaseNotes": "# CAVACO PRO 0.23.1\n\n• Cadastrar o artista no meio da música não trava mais a tela\n• Depois de salvar o artista novo, o formulário volta a rolar normalmente\n• Vale para qualquer tela com dois avisos abertos um sobre o outro\n• Seus dados locais e repertórios são preservados",
+  "versionName": "0.24.0",
+  "versionCode": 2400,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.24.0.apk",
+  "sha256": "2b9b1c97bba02c34ff1354173c609183b87b6af9f4bce1375682572183cf7596",
+  "fileSize": 4016134,
+  "releaseNotes": "# CAVACO PRO 0.24.0\n\n• Novo exercício: Quadradinhos do tom — os quatro acordes que giram em cada tom\n• Doze tons maiores e doze menores, com o desenho de cada acorde no braço\n• Versão do campo (C Am Dm G7) e com dominante do samba (C A7 Dm G7)\n• Em tríades ou com sétima; a dominante sempre puxa a volta\n• \"Treinar no metrônomo\" já leva os quatro acordes escolhidos\n• Mostra quantas das suas cifras estão naquele tom, e abre a lista\n• Seus dados locais e repertórios são preservados",
   "required": false
 }
