@@ -1,9 +1,9 @@
 {
-  "versionName": "0.25.0",
-  "versionCode": 2500,
-  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.25.0.apk",
-  "sha256": "5372826bab6ef3df42f1f8fd94c526169df29034b9de081ddf771b79e6010e8d",
-  "fileSize": 4018382,
-  "releaseNotes": "# CAVACO PRO 0.25.0\n\n• Repertórios pela própria cifra: botão de lista ao lado do favoritar\n• Marque vários repertórios de uma vez, com busca, e crie um novo sem sair da cifra\n• O botão mostra em quantos repertórios a música está\n• A versão que você está lendo é a que vai para o repertório\n• Quadradinhos: lápis em cada acorde para trocar pelo que você quer estudar\n• Aceita acorde repetido e de fora do tom, e diz quando está fora\n• \"Restaurar acordes originais\" devolve a volta do campo harmônico\n• Seus dados locais e repertórios são preservados",
+  "versionName": "0.26.0",
+  "versionCode": 2600,
+  "downloadUrl": "https://raw.githubusercontent.com/gabrielssilverio/cavaco-pro-releases/main/CavacoPro-0.26.0.apk",
+  "sha256": "f0aa57cf617759ab9223af46d30626084199094ae6f08c4b0108183c78fb0c4a",
+  "fileSize": 4025782,
+  "releaseNotes": "# CAVACO PRO 0.26.0\n\n• Modo Karaokê: acompanhe a letra e os acordes pelo vídeo do YouTube da música\n• A linha que está tocando fica em destaque e centralizada, com as próximas à vista\n• Acorde atual e próximo, cada um com o diagrama de cavaquinho\n• Sincronize uma vez: toque em \"Marcar linha\" e a mira já pula para a seguinte\n• \"Marcar acorde\" segue a ordem em que você toca\n• Voltar 1 s e avançar 1 s para conferir sem perder o lugar\n• Ajuste de meio segundo desloca a música toda, sem refazer marca nenhuma\n• Dá para escrever o instante à mão, como 1:23.4\n• Arraste o vídeo para trás e a cifra acompanha\n• Subir ou baixar o tom troca os acordes e NÃO mexe nos tempos\n• A sincronização fica salva e volta na próxima vez que abrir\n• Vídeo bloqueado, apagado ou sem internet não atrapalha a cifra\n• Nenhum número entra no texto da sua cifra, e seus dados são preservados",
   "required": false
 }
