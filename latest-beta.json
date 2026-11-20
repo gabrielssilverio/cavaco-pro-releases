@@ -1,9 +1,9 @@
 {
-  "versionName": "0.27.9-beta",
-  "versionCode": 2709,
-  "downloadUrl": "https://github.com/gabrielssilverio/cavaco-pro-releases/releases/download/beta-0.27.9/CavacoPro-0.27.9-beta-estrito.apk",
-  "sha256": "824ef8b92cd77378aafd06cfd2779753bb8c54aa9dbfe4a53fdf0344c3bc9a6a",
-  "fileSize": 158732799,
-  "releaseNotes": "Correcao: a atualizacao pelo aplicativo volta a baixar. Toca Junto Comigo com dez musicas. Aba Cifras e engrenagem de Ajustes na barra do beta. Rolagem automatica para no fim da cifra.",
-  "required": false
+    "versionName":  "0.27.10-beta",
+    "versionCode":  2710,
+    "downloadUrl":  "https://github.com/gabrielssilverio/cavaco-pro-releases/releases/download/beta-0.27.10/CavacoPro-0.27.10-beta-estrito.apk",
+    "sha256":  "15e2bd949d66dd5a18654a6ca51d44d58b8da69aeb80bf2edff4a8c5de2ce0e4",
+    "fileSize":  158383156,
+    "releaseNotes":  "Oculta Servidor de atualização e Minhas cifras em Ajustes.",
+    "required":  false
 }
