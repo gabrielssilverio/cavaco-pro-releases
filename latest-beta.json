@@ -1,9 +1,9 @@
 {
-    "versionName":  "0.27.10-beta",
-    "versionCode":  2710,
-    "downloadUrl":  "https://github.com/gabrielssilverio/cavaco-pro-releases/releases/download/beta-0.27.10/CavacoPro-0.27.10-beta-estrito.apk",
-    "sha256":  "15e2bd949d66dd5a18654a6ca51d44d58b8da69aeb80bf2edff4a8c5de2ce0e4",
-    "fileSize":  158383156,
-    "releaseNotes":  "Oculta Servidor de atualização e Minhas cifras em Ajustes.",
+    "versionName":  "0.27.11-beta",
+    "versionCode":  2711,
+    "downloadUrl":  "https://github.com/gabrielssilverio/cavaco-pro-releases/releases/download/beta-0.27.11/CavacoPro-0.27.11-beta-estrito.apk",
+    "sha256":  "acc0211d617b9800e734be22532c3ed04528baff1f39010b6ed6e8b5986f9c27",
+    "fileSize":  158620724,
+    "releaseNotes":  "O botão + YouTube agora apresenta o recurso e avisa que o vínculo de vídeos chega em breve. Atualizador com verificação em blocos.",
     "required":  false
 }
