@@ -1,9 +1,9 @@
 {
-  "versionName": "0.27.18-homolog",
-  "versionCode": 2718,
-  "downloadUrl": "https://github.com/gabrielssilverio/cavaco-pro-releases/releases/download/homolog-0.27.18/GabeDoCavaco-0.27.18-homolog.apk",
-  "sha256": "4268634ff751a94b7de23cbe93663e3a3f532ff45ba4dd60cc08f6c52e3d6a10",
-  "fileSize": 158842154,
-  "releaseNotes": "Carga da versao Principal: 185 cifras completas como segunda versao, cada uma com tom proprio e transposicao independente. Corrige: Seu Balance que havia ficado fora, o controle de tom que lia a V1, e sete musicas do Revelacao que nao casavam pelo nome do artista.",
+  "versionName": "0.27.19-homolog",
+  "versionCode": 2719,
+  "downloadUrl": "https://github.com/gabrielssilverio/cavaco-pro-releases/releases/download/homolog-0.27.19/GabeDoCavaco-0.27.19-homolog.apk",
+  "sha256": "d22be88b086d6407255eea8e9130425362e0f85660eb6544a45f40f729b2b539",
+  "fileSize": 158842378,
+  "releaseNotes": "185 cifras completas como versao Principal, cada uma com tom proprio. Conferido no aparelho: Seu Balance em D ao lado da V1 em A. Corrige o identificador posicional que impedia musica nova de entrar.",
   "required": false
 }
