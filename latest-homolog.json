@@ -1,9 +1,9 @@
 {
-  "versionName": "0.27.22-homolog",
-  "versionCode": 2722,
-  "downloadUrl": "https://github.com/gabrielssilverio/cavaco-pro-releases/releases/download/homolog-0.27.22/GabeDoCavaco-0.27.22-homolog.apk",
-  "sha256": "2287ebdfdec9886f97c5092015126f160489900b7ef1202d46afcfd40d164f15",
-  "fileSize": 158863146,
-  "releaseNotes": "Dicionario de Acordes: a biblioteca inteira do cavaquinho, com todas as posicoes de cada acorde. Atalho na tela inicial e botao dentro de qualquer cifra.",
+  "versionName": "0.27.23-homolog",
+  "versionCode": 2723,
+  "downloadUrl": "https://github.com/gabrielssilverio/cavaco-pro-releases/releases/download/homolog-0.27.23/GabeDoCavaco-0.27.23-homolog.apk",
+  "sha256": "b35c0f9e2f85af0f63ef94578b83a144c0488f49e30577027615f256174a33ff",
+  "fileSize": 158863166,
+  "releaseNotes": "As dominantes sem fundamental entram no Dicionario: A7 [2 0 2 2], D7 [4 2 1 4] e mais tres. Estavam no banco e nao apareciam na lista de posicoes.",
   "required": false
 }
