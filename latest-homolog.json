@@ -1,9 +1,9 @@
 {
-  "versionName": "0.27.19-homolog",
-  "versionCode": 2719,
-  "downloadUrl": "https://github.com/gabrielssilverio/cavaco-pro-releases/releases/download/homolog-0.27.19/GabeDoCavaco-0.27.19-homolog.apk",
-  "sha256": "d22be88b086d6407255eea8e9130425362e0f85660eb6544a45f40f729b2b539",
-  "fileSize": 158842378,
-  "releaseNotes": "185 cifras completas como versao Principal, cada uma com tom proprio. Conferido no aparelho: Seu Balance em D ao lado da V1 em A. Corrige o identificador posicional que impedia musica nova de entrar.",
+  "versionName": "0.27.20-homolog",
+  "versionCode": 2720,
+  "downloadUrl": "https://github.com/gabrielssilverio/cavaco-pro-releases/releases/download/homolog-0.27.20/GabeDoCavaco-0.27.20-homolog.apk",
+  "sha256": "95feefa6c16ee903b442e66194dd4e9dbbc2d5c8b5d9ba514854fe1144a6fdde",
+  "fileSize": 158859646,
+  "releaseNotes": "Todos os acordes do acervo mapeados: de 216 sem diagrama para 21, e 17 deles sao impossiveis em quatro cordas ou erro de digitacao no documento. 126 grafias brasileiras reconhecidas (m7(5-), 7+, 7(9-)) e 18 qualidades novas. O banco foi de 1.000 para 2.362 formas.",
   "required": false
 }
