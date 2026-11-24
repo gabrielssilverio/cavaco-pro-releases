@@ -1,9 +1,9 @@
 {
-  "versionName": "0.27.23-homolog",
-  "versionCode": 2723,
-  "downloadUrl": "https://github.com/gabrielssilverio/cavaco-pro-releases/releases/download/homolog-0.27.23/GabeDoCavaco-0.27.23-homolog.apk",
-  "sha256": "b35c0f9e2f85af0f63ef94578b83a144c0488f49e30577027615f256174a33ff",
-  "fileSize": 158863166,
-  "releaseNotes": "As dominantes sem fundamental entram no Dicionario: A7 [2 0 2 2], D7 [4 2 1 4] e mais tres. Estavam no banco e nao apareciam na lista de posicoes.",
+  "versionName": "0.27.24-homolog",
+  "versionCode": 2724,
+  "downloadUrl": "https://github.com/gabrielssilverio/cavaco-pro-releases/releases/download/homolog-0.27.24/GabeDoCavaco-0.27.24-homolog.apk",
+  "sha256": "d5c551352c0bb680a0d869f70ecf6eef9d50c8ce3c42cfbb4821993c2094e943",
+  "fileSize": 158863210,
+  "releaseNotes": "O mapa principal e a lista de variacoes agora mostram a mesma digitacao. Eram 11 posicoes discordando, em Cm, Em, Fm, Gm, Am, Bm, D7, F7, G7, A7 e B7.",
   "required": false
 }
