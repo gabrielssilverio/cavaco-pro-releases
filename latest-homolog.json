@@ -1,9 +1,9 @@
 {
-  "versionName": "0.27.24-homolog",
-  "versionCode": 2724,
-  "downloadUrl": "https://github.com/gabrielssilverio/cavaco-pro-releases/releases/download/homolog-0.27.24/GabeDoCavaco-0.27.24-homolog.apk",
-  "sha256": "d5c551352c0bb680a0d869f70ecf6eef9d50c8ce3c42cfbb4821993c2094e943",
-  "fileSize": 158863210,
-  "releaseNotes": "O mapa principal e a lista de variacoes agora mostram a mesma digitacao. Eram 11 posicoes discordando, em Cm, Em, Fm, Gm, Am, Bm, D7, F7, G7, A7 e B7.",
+  "versionName": "0.27.25-homolog",
+  "versionCode": 2725,
+  "downloadUrl": "https://github.com/gabrielssilverio/cavaco-pro-releases/releases/download/homolog-0.27.25/GabeDoCavaco-0.27.25-homolog.apk",
+  "sha256": "31c6da36f8bb90f29b593e1dd04651572d765a38c7d442208b2e499796cd5b1b",
+  "fileSize": 158864546,
+  "releaseNotes": "A licenca passa a se revalidar sozinha. Aparelho com prazo vencido se recupera sem codigo novo, e o portao ganhou o botao Revalidar agora.",
   "required": false
 }
