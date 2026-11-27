@@ -1,9 +1,9 @@
 {
-  "versionName": "0.27.26-beta",
-  "versionCode": 2726,
-  "downloadUrl": "https://github.com/gabrielssilverio/cavaco-pro-releases/releases/download/beta-0.27.26/CavacoPro-0.27.26-beta-estrito.apk",
-  "sha256": "9cc58210bd66ddd48b55731b2ab811cce4399340239a96c028a76ab8e7a1c4ec",
+  "versionName": "0.27.27-beta",
+  "versionCode": 2727,
+  "downloadUrl": "https://github.com/gabrielssilverio/cavaco-pro-releases/releases/download/beta-0.27.27/CavacoPro-0.27.27-beta-estrito.apk",
+  "sha256": "7f3d2813084624fceadfe2616128a27758f228e493ca04fee19a3818be08f6a4",
   "fileSize": 158865698,
-  "releaseNotes": "A licenca passa a se revalidar sozinha. Se o aplicativo pedir para revalidar, toque em Revalidar agora -- nao precisa de codigo novo, e nada do seu acervo foi apagado. Tambem: ao passar o mouse num acorde (no computador) o mapa dele aparece.",
+  "releaseNotes": "As versoes Principal chegaram: cada cifra ganha uma segunda versao, com o tom proprio dela, ao lado da V1 que voce ja tinha. A sua V1 nao foi tocada. Mais: a licenca se revalida sozinha.",
   "required": false
 }
