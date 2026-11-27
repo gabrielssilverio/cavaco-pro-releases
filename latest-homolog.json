@@ -1,9 +1,9 @@
 {
-  "versionName": "0.27.26-homolog",
-  "versionCode": 2726,
-  "downloadUrl": "https://github.com/gabrielssilverio/cavaco-pro-releases/releases/download/homolog-0.27.26/GabeDoCavaco-0.27.26-homolog.apk",
-  "sha256": "27932e903d081d0dba3430718bace9f81842ea87f041b3e85db25613a94c8d70",
+  "versionName": "0.27.27-homolog",
+  "versionCode": 2727,
+  "downloadUrl": "https://github.com/gabrielssilverio/cavaco-pro-releases/releases/download/homolog-0.27.27/GabeDoCavaco-0.27.27-homolog.apk",
+  "sha256": "b122554b49284e074fc0558bae7e7ac62022bcdd85cad893e2c29087ad03f099",
   "fileSize": 158865722,
-  "releaseNotes": "A licenca se revalida sozinha; o aparelho vencido se recupera sem codigo novo. Mais o mapa do acorde ao passar o mouse.",
+  "releaseNotes": "As versoes Principal passam a vir no beta tambem: o beta de producao e espelho da homologacao.",
   "required": false
 }
