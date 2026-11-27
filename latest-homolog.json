@@ -1,9 +1,9 @@
 {
-  "versionName": "0.27.25-homolog",
-  "versionCode": 2725,
-  "downloadUrl": "https://github.com/gabrielssilverio/cavaco-pro-releases/releases/download/homolog-0.27.25/GabeDoCavaco-0.27.25-homolog.apk",
-  "sha256": "31c6da36f8bb90f29b593e1dd04651572d765a38c7d442208b2e499796cd5b1b",
-  "fileSize": 158864546,
-  "releaseNotes": "A licenca passa a se revalidar sozinha. Aparelho com prazo vencido se recupera sem codigo novo, e o portao ganhou o botao Revalidar agora.",
+  "versionName": "0.27.26-homolog",
+  "versionCode": 2726,
+  "downloadUrl": "https://github.com/gabrielssilverio/cavaco-pro-releases/releases/download/homolog-0.27.26/GabeDoCavaco-0.27.26-homolog.apk",
+  "sha256": "27932e903d081d0dba3430718bace9f81842ea87f041b3e85db25613a94c8d70",
+  "fileSize": 158865722,
+  "releaseNotes": "A licenca se revalida sozinha; o aparelho vencido se recupera sem codigo novo. Mais o mapa do acorde ao passar o mouse.",
   "required": false
 }
