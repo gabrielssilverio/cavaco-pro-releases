@@ -1,9 +1,9 @@
 {
-    "versionName":  "0.27.15-beta",
-    "versionCode":  2715,
-    "downloadUrl":  "https://github.com/gabrielssilverio/cavaco-pro-releases/releases/download/beta-0.27.15/CavacoPro-0.27.15-beta-estrito.apk",
-    "sha256":  "db38c05fa695dc75c9c63c7a46d4443ca0f2d5f4ca5a140a2ae6f2bf65f919ad",
-    "fileSize":  158620724,
-    "releaseNotes":  "Amanhecer no Terreiro saiu do acervo padrão do beta. O player Toca Junto Comigo oculta a opção Baixar vídeo.",
-    "required":  false
+  "versionName": "0.27.26-beta",
+  "versionCode": 2726,
+  "downloadUrl": "https://github.com/gabrielssilverio/cavaco-pro-releases/releases/download/beta-0.27.26/CavacoPro-0.27.26-beta-estrito.apk",
+  "sha256": "9cc58210bd66ddd48b55731b2ab811cce4399340239a96c028a76ab8e7a1c4ec",
+  "fileSize": 158865698,
+  "releaseNotes": "A licenca passa a se revalidar sozinha. Se o aplicativo pedir para revalidar, toque em Revalidar agora -- nao precisa de codigo novo, e nada do seu acervo foi apagado. Tambem: ao passar o mouse num acorde (no computador) o mapa dele aparece.",
+  "required": false
 }
